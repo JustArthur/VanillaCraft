@@ -1,0 +1,36 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "net.minecraft.class_433": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "io.wispforest.owo.config.ui.ConfigScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xaero.common.gui.GuiMinimapInfoSettings": true,
+    "xaero.common.gui.GuiInfoDisplayEdit": true,
+    "gg.essential.gui.screenshot.components.ScreenshotBrowser": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "net.minecraft.class_5522": true,
+    "sh.talonfloof.enhancedweather.screen.RadarScreen": true,
+    "com.minenash.seamless_loading_screen.FadeScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "com.lion.graveyard.gui.OssuaryScreen": true,
+    "fi.dy.masa.litematica.gui.GuiMainMenu": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicLoad": true,
+    "fi.dy.masa.litematica.gui.GuiConfigs": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicPlacementsList": true,
+    "fi.dy.masa.litematica.gui.GuiPlacementConfiguration": true,
+    "fi.dy.masa.litematica.gui.GuiRenderLayer": true,
+    "com.natamus.collective_common_fabric.config.DuskConfig$DuskConfigScreen": true,
+    "fi.dy.masa.litematica.gui.GuiMaterialList": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicLoadedList": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true
+  },
+  "hideBackground": {
+    "net.minecraft.class_5522": true,
+    "com.lion.graveyard.gui.OssuaryScreen": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true
+  }
+}
